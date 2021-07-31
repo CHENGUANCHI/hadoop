@@ -1,5 +1,5 @@
 # hadoop
 
 **test mapreduce**
-output:
+output:  
 ![image](https://github.com/CHENGUANCHI/hadoop/blob/master/output.png)
